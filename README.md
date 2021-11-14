@@ -22,14 +22,13 @@ You will need to verify that you have installed the libraries listed in the Tech
 
 In the program folder, run `voila etf_analyzer.ipynb`
 
-Alternatively, run the program ```san_francisco_housing.ipynb``` in Jupyter Lab.
+Alternatively, run the program ```etf_analyzer.ipynb``` in Jupyter Lab.
 
 Your will see output that looks like this:
 
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/phodsman/ETF-Analyzer-with-SQL-and-Voila/blob/main/Screenshot%202021-11-14%20135017.png?raw=true)
+![](https://github.com/phodsman/ETF-Analyzer-with-SQL-and-Voila/blob/main/Screenshot%202021-11-14%20135104.png?raw=true)
+![](https://github.com/phodsman/ETF-Analyzer-with-SQL-and-Voila/blob/main/Screenshot%202021-11-14%20135328.png?raw=true)
 
 ## Contributors
 This program was written by Preston Hodsman based on a request for analysis from Trilogy Education Services, a 2U, Inc.
